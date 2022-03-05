@@ -1,0 +1,106 @@
+/*
+#slide {
+  position: absolute;
+  right: 10px;
+  width: 500px;
+  height: 500px;
+  /*-webkit-animation: slide 0.5s backwards;
+  -webkit-animation-delay: 2s;
+  animation: slide 0.5s backwards;
+  animation-delay: 2s;
+  */
+
+
+@-webkit-keyframes slide {
+  100% { right: 0; }
+}
+
+@keyframes slide {
+  100% { right: 0; }
+}
+*/
+
+
+<div class="slide-row">
+      <div class="slide-col">
+        <div class="user-text">
+          <div class="user-img">
+            <p>
+              I am so glad I found your company, your solutions to this industry really helped in the start-up process. Highly recommend
+
+              Photo by Dinielle De Veyra from Pexels
+              <br>
+              ⛟ ⛟ ⛟ ⛟ ⛟
+            </p>
+            <h3>Jacob Leroy</h3>
+            <p>Daily Waffles</p>
+          </div>
+          <div class="user-img">
+            <img src="user-1.jpg" >
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- -----------------------------------------------------   -->
+    <div class="slide-row">
+      <div class="slide-col">
+        <div class="user-text">
+          <div class="user-img">
+            <p>
+              Thank you so much for guiding my team with the food truck setup, we saved soo much timee!!
+
+              Photo by Kampus Production from Pexels
+              <br>
+              ⛟ ⛟ ⛟ ⛟ 
+            </p>
+            <h3>Sofia</h3>
+            <p>Creme Cakes</p>
+          </div>
+          <div class="user-img">
+            <img src="user-2.jpg" >
+          </div>
+        </div>
+      </div>
+    </div>
+     <!-- -----------------------------------------------------   -->
+     <div class="slide-row">
+      <div class="slide-col">
+        <div class="user-text">
+          <div class="user-img">
+            <p>
+              Amazing idea, Amazing execution super happy:)
+
+              Photo by Katerina Holmes from Pexels
+              <br>
+              ⛟ ⛟ ⛟ ⛟ ⛟ 
+            </p>
+            <h3>Daphline</h3>
+            <p>Comfy Burritos</p>
+          </div>
+          <div class="user-img">
+            <img src="user-3.jpg" >
+          </div>
+        </div>
+      </div>
+    </div>
+     <!-- -----------------------------------------------------   -->
+     <div class="slide-row">
+      <div class="slide-col">
+        <div class="user-text">
+          <div class="user-img">
+            <p>
+              With the help of this company Im finally able to fulfill my life-long dream of owning a food truck!
+
+              Photo by Tim Douglas from Pexels
+              <br>
+              ⛟ ⛟ ⛟ ⛟ ⛟ 
+            </p>
+            <h3>Hannah</h3>
+            <p>Pasta italiano</p>
+          </div>
+          <div class="user-img">
+            <img src="user-4.jpg" >
+          </div>
+        </div>
+      </div>
+    </div>
